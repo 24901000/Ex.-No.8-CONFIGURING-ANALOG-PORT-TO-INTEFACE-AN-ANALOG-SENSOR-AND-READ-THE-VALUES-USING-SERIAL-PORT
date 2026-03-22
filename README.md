@@ -1,4 +1,4 @@
-**** 
+
 # Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
 # NAME : B Barkavi
 # Reg number : 212224110011
@@ -307,4 +307,4 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Result :
 To configure ADC channel for interfacing an analog sensor and read the values on the com port is successfully executed.
 
-****
+
